@@ -1,0 +1,4 @@
+name: HTML Tutorials
+pygments: true
+base_url: /
+markdown: redcarpet
