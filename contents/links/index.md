@@ -1,11 +1,11 @@
 ---
 layout: main
-title: Headings
+title: Links
 ---
 
-# Headings
+# Links
 
-Want to draw attention to some text? Use a heading!
+Time to really start writing some serious HyperText! 
 
 <br></br>
 
@@ -18,7 +18,18 @@ Want to draw attention to some text? Use a heading!
       </div>
       <div class="panel-body">
         <pre>
-&lt;a href="http://umd.edu"&gt;A link&lt;/a&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Links!&lt;/title&gt;
+  &lt;/head&gt;
+
+  &lt;body&gt;
+    &lt;h2&gt;Cool links!&lt;/h2&gt;
+    &lt;p&gt;&lt;a href="http://umd.edu"&gt;UMD Home&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;My favorite newspaper&lt;a href="http://nytimes.com"&gt;The New York Times&lt;/a&gt;&lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
         </pre>
       </div>
     </div>
@@ -31,7 +42,9 @@ Want to draw attention to some text? Use a heading!
         <h3 class="panel-title">Result</h3>
       </div>
       <div class="panel-body">
-        <a href="http://umd.edu">A link</a>
+        <h2>Cool links!</h2>
+        <p><a href="http://umd.edu">UMD Home</a></p>
+        <p>My favorite newspaper: <a href="http://nytimes.com">The New York Times</a></p>
       </div>
     </div>
 
