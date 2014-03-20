@@ -55,6 +55,8 @@ Want to draw attention to some text? Use a heading! Headings are numbered from l
   </div>
 </div>
 
+---
+
 <div class="row">
   <div class="col-md-1">
     <a href="../paragraphs"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
@@ -63,3 +65,5 @@ Want to draw attention to some text? Use a heading! Headings are numbered from l
     <a href="../links"><button type="button" class="btn btn-primary btn-lg">Next</button></a>
   </div>
 </div>
+
+---

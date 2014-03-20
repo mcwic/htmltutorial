@@ -52,6 +52,8 @@ Let's get back into learning some tags. Want to write some text? Write it inside
   </div>
 </div>
 
+---
+
 <div class="row">
   <div class="col-md-1">
     <a href="../html"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
@@ -60,3 +62,5 @@ Let's get back into learning some tags. Want to write some text? Write it inside
     <a href="../headings"><button type="button" class="btn btn-primary btn-lg">Next</button></a>
   </div>
 </div>
+
+---
