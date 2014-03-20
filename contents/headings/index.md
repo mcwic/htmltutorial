@@ -5,7 +5,7 @@ title: Headings
 
 # Headings
 
-Want to draw attention to some text? Use a heading!
+Want to draw attention to some text? Use a heading! Headings are numbered from largest to smallest. It's good to have headings at the beginning of a page or paragraph. You can use headings to organize main ideas. 
 
 <br></br>
 
@@ -18,11 +18,20 @@ Want to draw attention to some text? Use a heading!
       </div>
       <div class="panel-body">
         <pre>
-&lt;h1&gt;h1 heading&lt;/h1&gt;
-&lt;h2&gt;h2 heading&lt;/h2&gt;
-&lt;h3&gt;h3 heading&lt;/h3&gt;
-&lt;h4&gt;h4 heading&lt;/h4&gt;
-&lt;h5&gt;h5 heading&lt;/h5&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Headings!&lt;/title&gt;
+  &lt;/head&gt;
+
+  &lt;body&gt;
+    &lt;h1&gt;h1 heading&lt;/h1&gt;
+    &lt;h2&gt;h2 heading&lt;/h2&gt;
+    &lt;h3&gt;h3 heading&lt;/h3&gt;
+    &lt;h4&gt;h4 heading&lt;/h4&gt;
+    &lt;h5&gt;h5 heading&lt;/h5&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
         </pre>
       </div>
     </div>

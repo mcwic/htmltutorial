@@ -5,7 +5,9 @@ title: Headings
 
 # Paragraphs
 
-Want to write some text? Write a paragraph!
+One the last page, I insinuated something without saying it outright: Your web browser can read text! Think about how remarkable that is. Can you think of any other computer programs that can read? This is where the "Language" aspect of HyperText Markup Language comes into play: HTML is the language that web browsers speak! We write HTML for browsers to understand! This is a very powerful concept: have you ever written something before that something other than a human being could understand?
+
+Let's get back into learning some tags. Want to write some text? Write it inside a paragraph tag! The paragraph tag looks like this: `<p></p>`. Try the code below and see if you get the same result.
 
 <br></br>
 
@@ -18,9 +20,19 @@ Want to write some text? Write a paragraph!
       </div>
       <div class="panel-body">
         <pre>
-&lt;p&gt;This is a paragraph!&lt;/p&gt;
-&lt;p&gt;This is another paragraph!&lt;/p&gt;
-        </pre>
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Paragraphs!&lt;/title&gt;
+  &lt;/head&gt;
+
+  &lt;body&gt;
+    &lt;p&gt;This is a paragraph! Super cool right?&lt;/p&gt;
+
+    &lt;p&gt;This is another paragraph!&lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</pre>
       </div>
     </div>
   
@@ -32,7 +44,7 @@ Want to write some text? Write a paragraph!
         <h3 class="panel-title">Result</h3>
       </div>
       <div class="panel-body">
-        <p>This is a paragraph!</p>
+        <p>This is a paragraph! Super cool right?</p>
         <p>This is another paragraph!</p>
       </div>
     </div>
