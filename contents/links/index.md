@@ -51,8 +51,12 @@ Time to really start writing some serious HyperText!
   </div>
 </div>
 
+---
+
 <div class="row">
   <div class="col-md-1">
     <a href="../headings"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
   </div>
 </div>
+
+---
