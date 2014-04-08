@@ -1,11 +1,11 @@
 ---
 layout: main
-title: Links
+title: Lists
 ---
 
-# Links
+# Lists
 
-Time to really start writing some serious HyperText! With links you can finally link to other web pages! The link tag is `<a>`, and you need to specify what website you're linking to. Inside of the `<a>` tag, just use `href="http://[Your web address here!]"`.
+It’s not uncommon to have a collection of items that you may want to put into a list, for which you can use the list tag! Lists come in two flavors: unordered and ordered. Unordered lists use bullet points, while ordered lists use numbers.
 
 <br></br>
 
@@ -25,7 +25,7 @@ Time to really start writing some serious HyperText! With links you can finally 
   &lt;/head&gt;
 
   &lt;body&gt;
-    &lt;h2&gt;Cool links!&lt;/h2&gt;
+    &lt;h2&gt;My favorite books:&lt;/h2&gt;
     &lt;p&gt;&lt;a href="http://umd.edu"&gt;UMD Home&lt;/a&gt;&lt;/p&gt;
     &lt;p&gt;My favorite newspaper&lt;a href="http://nytimes.com"&gt;The New York Times&lt;/a&gt;&lt;/p&gt;
   &lt;/body&gt;
@@ -55,10 +55,10 @@ Time to really start writing some serious HyperText! With links you can finally 
 
 <div class="row">
   <div class="col-md-1">
-    <a href="../headings"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
+    <a href="../lists"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
   </div>
   <div class="col-md-1">
-    <a href="../lists"><button type="button" class="btn btn-primary btn-lg">Next</button></a>
+    <a href="../images"><button type="button" class="btn btn-primary btn-lg">Next</button></a>
   </div>
 </div>
 
