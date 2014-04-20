@@ -5,7 +5,7 @@ title: Links
 
 # Links
 
-Time to really start writing some serious HyperText! 
+Time to really start writing some serious HyperText! With links you can finally link to other web pages! The link tag is `<a>`, and you need to specify what website you're linking to. Inside of the `<a>` tag, just use `href="http://[Your web address here!]"`.
 
 <br></br>
 
@@ -17,8 +17,7 @@ Time to really start writing some serious HyperText!
         <h3 class="panel-title">Code</h3>
       </div>
       <div class="panel-body">
-        <pre>
-&lt;!DOCTYPE html&gt;
+        <pre><code>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
   &lt;head&gt;
     &lt;title&gt;Links!&lt;/title&gt;
@@ -29,8 +28,7 @@ Time to really start writing some serious HyperText!
     &lt;p&gt;&lt;a href="http://umd.edu"&gt;UMD Home&lt;/a&gt;&lt;/p&gt;
     &lt;p&gt;My favorite newspaper&lt;a href="http://nytimes.com"&gt;The New York Times&lt;/a&gt;&lt;/p&gt;
   &lt;/body&gt;
-&lt;/html&gt;
-        </pre>
+&lt;/html&gt;</code></pre>
       </div>
     </div>
   
@@ -56,6 +54,9 @@ Time to really start writing some serious HyperText!
 <div class="row">
   <div class="col-md-1">
     <a href="../headings"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
+  </div>
+  <div class="col-md-1">
+    <a href="../lists"><button type="button" class="btn btn-primary btn-lg">Next</button></a>
   </div>
 </div>
 
