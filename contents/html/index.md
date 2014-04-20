@@ -16,7 +16,7 @@ Open up your text editor and type the following code. Save the file you just cre
         <h3 class="panel-title">Code</h3>
       </div>
       <div class="panel-body">
-        <pre>&lt;!DOCTYPE html&gt;
+        <pre><code>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
 	&lt;head&gt;
 		&lt;title&gt;Title of my first page&lt;/title&gt;
@@ -26,7 +26,7 @@ Open up your text editor and type the following code. Save the file you just cre
 		My first page!
 	&lt;/body&gt;
 &lt;/html&gt;
-</pre>
+</code></pre>
 			</div>
 		</div>  
 	</div>

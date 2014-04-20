@@ -19,8 +19,7 @@ Let's get back into learning some tags. Want to write some text? Write it inside
         <h3 class="panel-title">Code</h3>
       </div>
       <div class="panel-body">
-        <pre>
-&lt;!DOCTYPE html&gt;
+        <pre><code>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
   &lt;head&gt;
     &lt;title&gt;Paragraphs!&lt;/title&gt;
@@ -32,7 +31,7 @@ Let's get back into learning some tags. Want to write some text? Write it inside
     &lt;p&gt;This is another paragraph!&lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
-</pre>
+</code></pre>
       </div>
     </div>
   

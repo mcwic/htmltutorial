@@ -17,8 +17,7 @@ It’s not uncommon to have a collection of items that you may want to put into 
         <h3 class="panel-title">Code</h3>
       </div>
       <div class="panel-body">
-        <pre>
-&lt;!DOCTYPE html&gt;
+        <pre><code>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
 
   &lt;body&gt;
@@ -36,8 +35,7 @@ It’s not uncommon to have a collection of items that you may want to put into 
       &lt;li&gt;Pomegranate&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/body&gt;
-&lt;/html&gt;
-        </pre>
+&lt;/html&gt;</code></pre>
       </div>
     </div>
   
@@ -72,7 +70,7 @@ It’s not uncommon to have a collection of items that you may want to put into 
 
 <div class="row">
   <div class="col-md-1">
-    <a href="../lists"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
+    <a href="../links"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
   </div>
   <div class="col-md-1">
     <a href="../images"><button type="button" class="btn btn-primary btn-lg">Next</button></a>

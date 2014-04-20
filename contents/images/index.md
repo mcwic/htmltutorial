@@ -17,15 +17,13 @@ Everyone loves to share images online! With the `<img>` tag, you can put images 
         <h3 class="panel-title">Code</h3>
       </div>
       <div class="panel-body">
-        <pre>
-&lt;!DOCTYPE html&gt;
+        <pre><code>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
 
   &lt;body&gt;
     &lt;img src="umd_logo.png" height="100" width="100" &gt;
   &lt;/body&gt;
-&lt;/html&gt;
-        </pre>
+&lt;/html&gt;</code></pre>
       </div>
     </div>
   
@@ -56,8 +54,7 @@ Combine links and images to turn your images into links!
         <h3 class="panel-title">Code</h3>
       </div>
       <div class="panel-body">
-        <pre>
-&lt;!DOCTYPE html&gt;
+        <pre><code>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
 
   &lt;body&gt;
@@ -66,8 +63,7 @@ Combine links and images to turn your images into links!
       &lt;img src="umd_logo.png" height="100" width="100"&gt;
     &lt;/a&gt;
   &lt;/body&gt;
-&lt;/html&gt;
-        </pre>
+&lt;/html&gt;</code></pre>
       </div>
     </div>
   

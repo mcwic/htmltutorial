@@ -19,3 +19,4 @@ title: HTML Tutorials
 2. [Text](./contents/text)
 3. [Font](./contents/font)
 4. [Span](./contents/span)
+5. [Afterword](./contents/afterword)

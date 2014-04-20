@@ -17,8 +17,7 @@ Time to really start writing some serious HyperText! With links you can finally 
         <h3 class="panel-title">Code</h3>
       </div>
       <div class="panel-body">
-        <pre>
-&lt;!DOCTYPE html&gt;
+        <pre><code>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
   &lt;head&gt;
     &lt;title&gt;Links!&lt;/title&gt;
@@ -29,8 +28,7 @@ Time to really start writing some serious HyperText! With links you can finally 
     &lt;p&gt;&lt;a href="http://umd.edu"&gt;UMD Home&lt;/a&gt;&lt;/p&gt;
     &lt;p&gt;My favorite newspaper&lt;a href="http://nytimes.com"&gt;The New York Times&lt;/a&gt;&lt;/p&gt;
   &lt;/body&gt;
-&lt;/html&gt;
-        </pre>
+&lt;/html&gt;</code></pre>
       </div>
     </div>
   

@@ -17,8 +17,7 @@ Want to draw attention to some text? Use a heading! Headings are numbered from l
         <h3 class="panel-title">Code</h3>
       </div>
       <div class="panel-body">
-        <pre>
-&lt;!DOCTYPE html&gt;
+        <pre><code>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
   &lt;head&gt;
     &lt;title&gt;Headings!&lt;/title&gt;
@@ -32,7 +31,7 @@ Want to draw attention to some text? Use a heading! Headings are numbered from l
     &lt;h5&gt;h5 heading&lt;/h5&gt;
   &lt;/body&gt;
 &lt;/html&gt;
-        </pre>
+        </code></pre>
       </div>
     </div>
   
