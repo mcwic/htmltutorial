@@ -6,6 +6,9 @@ title: Starting HTML
 # HTML
 
 Open up your text editor and type the following code. Save the file you just created as `page.html`. Now open `page.html` with a web browser. As a result of the code in the left panel, you should see the page in the right panel.
+
+You can also test out all of the following code in your browser by using this very handy tool: [http://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic](http://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
+
 <br></br>
 
 <div class="row">

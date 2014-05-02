@@ -65,7 +65,7 @@ Sometimes you have something to say and you need to say it <strong>boldly</stron
     <a href="../text"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
   </div>
   <div class="col-md-1">
-    <a href="../span"><button type="button" class="btn btn-primary btn-lg">Next</button></a>
+    <a href="../type-selector"><button type="button" class="btn btn-primary btn-lg">Next</button></a>
   </div>
 </div>
 

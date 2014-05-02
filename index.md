@@ -18,5 +18,6 @@ title: HTML Tutorials
 1. [Color](./contents/color)
 2. [Text](./contents/text)
 3. [Font](./contents/font)
-4. [Span](./contents/span)
-5. [Afterword](./contents/afterword)
+4. [Type Selector](./contents/type-selector)
+5. [Span](./contents/span)
+6. [Afterword](./contents/afterword)
