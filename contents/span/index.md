@@ -56,7 +56,7 @@ Now that you know the basics of CSS, we can introduce a new HTML tag! The `<span
 
 <div class="row">
   <div class="col-md-1">
-    <a href="../font"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
+    <a href="../type-selector"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
   </div>
   <div class="col-md-1">
     <a href="../afterword"><button type="button" class="btn btn-primary btn-lg">Next</button></a>
