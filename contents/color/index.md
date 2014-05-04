@@ -11,8 +11,7 @@ CSS can be written inside of the `<head>` within the `<style>` tag. The first CS
 
 Below, we're going to define the `blue-background` class, and then assign that class to a certain HTML tag. The class of a tag is specified inside the begining of the tag with the following syntax: `<tag class="blue-background">Your text here!</tag>`.
 
-The first CSS propert we're going to show you is `background-color`, the effects of which are demonstrated below.
-
+The first CSS property we're going to show you is `background-color`, the effects of which are demonstrated below. Instead of using a color, you can also use an image with the similarly named `background-image` property.
 
 
 <br></br>
@@ -33,6 +32,7 @@ The first CSS propert we're going to show you is `background-color`, the effects
       .blue-back{ background-color: blue }
       .yellow-back{ background-color: yellow }
       .red-back{ background-color: red }
+      .old-map{ background-image: url(old_map.png) }
     &lt;/style&gt;
   &lt;/head&gt;
 
@@ -40,6 +40,7 @@ The first CSS propert we're going to show you is `background-color`, the effects
     &lt;h2 class="blue-back"&gt;I'm surrounded by blue!&lt;/h2&gt;
     &lt;h2 class="yellow-back"&gt;I'm surrounded by yellow!&lt;/h2&gt;
     &lt;h2 class="red-back"&gt;I'm surrounded by red!&lt;/h2&gt;
+    &lt;h2 class="old-map"&gt;I could be a map!&lt;/h2&gt;
   &lt;/body&gt;
 &lt;/html&gt;</code></pre>
       </div>
@@ -56,6 +57,7 @@ The first CSS propert we're going to show you is `background-color`, the effects
         <h2 style="background-color: blue">I'm surrounded by blue!</h2>
         <h2 style="background-color: yellow">I'm surrounded by yellow!</h2>
         <h2 style="background-color: red">I'm surrounded by red!</h2>
+        <h2 style="background-image: url(old_map.png)">I could be a map!</h2>
       </div>
     </div>
 

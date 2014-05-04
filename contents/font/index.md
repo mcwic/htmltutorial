@@ -7,6 +7,8 @@ title: Font
 
 Sometimes you have something to say and you need to say it <strong>boldly</strong>! Other times you need the <em>emphasis</em> that only <em>italcs</em> can offer. You can specify boldness with `font-weight: bold` and you can specify italic-ness(?) with `font-style: italic`. If you want to further manipulate how words appear on the page, you can also specify a special font! For now we're only going to cover the <span style="font-family: serif">Serif</span>, <span style="font-family: sans-serif">Sans-Serif</span>, and <span style="font-family: monospace">Monospace</span> style fonts. <span style="font-family: serif">As you can see, serif fonts have pointer details at the ends of the letters.</span><span style="font-family: monospace">In comparison, monospace fonts have the same amount of space between each letter. The space between letters is called the kearning.</span> Most of these tutorials were written in a Sans-Serif font (literally meaning without serif). You can specify the font with the `font-family` property (we'll demonstrate below).
 
+You can change the size of the text that is displayed by using the `font-size` property. You can specify `font-size` as a percentage of the default font size, or in size of pixels, specified by `px`. You can see an example of using different font sizes below.
+
 <br></br>
 
 <div class="row">
@@ -20,13 +22,15 @@ Sometimes you have something to say and you need to say it <strong>boldly</stron
         <pre><code>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
   &lt;head&gt;
-    &lt;title&gt;Font!&lt;/title&gt;
+    &lt;title&gt;Fonts!&lt;/title&gt;
 
     &lt;style&gt;
       .bold-txt{ font-weight: bold }
       .italic-txt{ font-style: italic }
       .serif-txt{ font-family: serif }
       .mono-txt{ font-family: monospace }
+      .double-size{ font-size: 200% }
+      .forty{ font-size: 40px }
     &lt;/style&gt;
   &lt;/head&gt;
 
@@ -35,6 +39,8 @@ Sometimes you have something to say and you need to say it <strong>boldly</stron
     &lt;p class="italic-txt"&gt;But why does Hulk smash?&lt;/p&gt;
     &lt;p class="serif-txt"&gt;Have you ever seen a serif seraph?&lt;/p&gt;
     &lt;p class="mono-txt"&gt;There should be a front for U2 called Bonospace!&lt;/p&gt;
+    &lt;p class="double-size"&gt;I'm double stuffed!&lt;/p&gt;
+    &lt;p class="forty"&gt;So, this is forty?&lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;</code></pre>
       </div>
@@ -52,6 +58,8 @@ Sometimes you have something to say and you need to say it <strong>boldly</stron
         <p><em>But why does Hulk smash?</em></p>
         <p><span style="font-family: serif">Have you ever seen a serif seraph?</span></p>
         <p><span style="font-family: monospace">There should be a font for U2 called Bonospace!</span></p>
+        <p style="font-size: 200%">I'm double stuffed!</p>
+        <p style="font-size: 40px">So, this is forty?</p>
       </div>
     </div>
 

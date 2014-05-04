@@ -25,7 +25,7 @@ Some type selectors have "pseudo-classes." A pseudo-class is tied to a type sele
     &lt;title&gt;Type Selectors!&lt;/title&gt;
     &lt;style&gt;
       p { color: red }
-      a:hover { color: blue }
+      a:hover { text-decoration: underline }
       a:visted { color: purple }
     &lt;/style&gt;
   &lt;/head&gt;
